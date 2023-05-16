@@ -1,0 +1,7 @@
+.facebookF {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 25px;
+  overflow: hidden;
+}
